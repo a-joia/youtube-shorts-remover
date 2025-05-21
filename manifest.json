@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Remove YouTube Shorts",
+  "version": "1.0",
+  "description": "Hides YouTube Shorts sections",
+  "permissions": ["scripting"],
+  "host_permissions": ["*://www.youtube.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["main.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
