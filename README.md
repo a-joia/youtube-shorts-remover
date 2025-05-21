@@ -9,4 +9,4 @@ In firefox, access the page
 about:debugging#/runtime/this-firefox
 ```
 
-Click in `Load Temporary Add-on` and then load `manifest.json`.
+Click on `Load Temporary Add-on` and then load `manifest.json`.
