@@ -2,7 +2,7 @@
 
 This is a very simple extension to remove shorts and games from youtube from Firefox
 
-# How to use
+# How to test
 
 In firefox, access the page 
 ```
