@@ -1,6 +1,6 @@
 ﻿# youtube-shorts-remover
 
-This is a very simple extension to remove shorts and games from youtube from Firefox
+This is a very simple Firefox extension to remove shorts and games from youtube.
 
 # How to test
 
